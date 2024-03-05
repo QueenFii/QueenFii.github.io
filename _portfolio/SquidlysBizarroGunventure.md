@@ -11,12 +11,9 @@ collection: portfolio
 
 What I worked on:
 
-Pixel Art
-
-Programming
-
-Design (Balancing Weapons and adding a new mechanic to the crate box formula)
-
-Basic animations
+* Pixel Art
+* Programming
+* Design (Balancing Weapons and adding a new mechanic to the crate box formula)
+* Basic animations
 
  
