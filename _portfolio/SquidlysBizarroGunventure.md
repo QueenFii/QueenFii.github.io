@@ -1,19 +1,15 @@
 ---
 title: "Squidly's Bizarro Gunventure"
-excerpt: "Squidly’s Crateventure was the first “full” game I made in unity. A Super Crate Box clone. <br/><img src='/images/SquidlyCrateventure.png'>"
+excerpt: "Squidly’s Bizzaro Gunventure was a top down shooter inspired by a mix of enter the gungeon and the binding of isaac. Every gun picked up had random stats and unique effects.<br/><img src='/images/SquidlyGunventure.png'>"
 collection: portfolio
 ---
 
+<img src='/images/SquidlyGunventure.png'>
 
-<img src='/images/SquidlyCrateventure.png'>
-
-[Game Link](https://queenfii.itch.io/squidlys-crateventure)
+[Game Link](https://queenfii.itch.io/squidlys-bizzaro-gunventure)
 
 What I worked on:
-
-* Pixel Art
 * Programming
-* Design (Balancing Weapons and adding a new mechanic to the crate box formula)
-* Basic animations
+* Gameplay Design (Weapons with random stats and unique effects + Balancing)
+* Level Design (adding secret rooms and making a dungeon layout)
 
- 
