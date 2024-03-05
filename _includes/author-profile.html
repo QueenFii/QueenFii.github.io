@@ -66,6 +66,9 @@
       {% endif %}      
       {% if author.dribbble %}
         <li><a href="https://dribbble.com/{{ author.dribbble }}"><i class="fab fa-fw fa-dribbble icon-pad-right" aria-hidden="true"></i>Dribbble</a></li>
+      {% endif %}
+      {% if author.itchio %}
+      <li><a href="https://itch.io/{{ author.itchio }}"><i class="fab fa-fw fa-itchio icon-pad-right" aria-hidden="true"></i>itchio</a></li>
       {% endif %}      
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>Github</a></li>
