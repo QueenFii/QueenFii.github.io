@@ -8,6 +8,8 @@ collection: portfolio
 
 [Game Link](https://queenfii.itch.io/squidlys-bizzaro-gunventure)
 
+Programming Language/Engine: C#/Unity
+
 What I worked on:
 * Programming
 * Gameplay Design (Weapons with random stats and unique effects + Balancing)

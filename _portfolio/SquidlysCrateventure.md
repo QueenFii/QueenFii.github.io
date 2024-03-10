@@ -9,6 +9,9 @@ collection: portfolio
 
 [Game Link](https://queenfii.itch.io/squidlys-crateventure)
 
+Programming Language/Engine: C#/Unity
+
+
 What I worked on:
 * Pixel Art
 * Programming
