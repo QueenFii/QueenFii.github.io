@@ -4,7 +4,7 @@ excerpt: "CHROMA is a top down puzzle game where players combine unique key comb
 collection: portfolio
 ---
 
-[Chroma Trailer](ChromaTrailer1.mp4)
+[Chroma Trailer](/images/ChromaTrailer1.mp4)
 
 [Game Link](https://queenfii.itch.io/CHROMA)
 
