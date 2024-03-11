@@ -1,8 +1,10 @@
 ---
 title: "Jade Dynasty"
-excerpt: "An expansion on Gunventure, Jade Dynasty is a top down shooter where you fight your way through procedural levels with unique, randomized guns.<br/><img src='/images/littlefeiguardian1.png'>"
+excerpt: "An expansion on Gunventure, Jade Dynasty is a top down shooter where you fight your way through procedural levels with unique, randomized guns.<br/><img src='/images/jadedynasty1.gif'>"
 collection: portfolio
 ---
+
+<img src='/images/jadedynasty2.gif'>
 
 [Game Link](https://queenfii.itch.io/jade-dynasty)
 
