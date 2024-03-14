@@ -1,5 +1,6 @@
 ---
 title: "Little Fei Guardian"
+permalink: /portfolio/2021/05/LittleFeiGuardian/
 excerpt: "Little Fei Guardian is a experimental 2nd person game where the player avoids the monster they see through while collecting the spirits of life that have lost their way.<br/><img src='/images/littlefeiguardian1.png'>"
 collection: portfolio
 ---

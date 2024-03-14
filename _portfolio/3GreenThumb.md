@@ -1,5 +1,6 @@
 ---
 title: "Green Thumb and the quest for a green universe"
+permalink: /portfolio/2023/01/GreenThumb/
 excerpt: "Global Game Jam project with the theme of roots. The player goes around to different planets to claim them for the roots.<br/><img src='/images/greenthumb1.png'>"
 collection: portfolio
 ---

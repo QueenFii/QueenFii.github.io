@@ -1,5 +1,6 @@
 ---
 title: "Shape Fighters"
+permalink: /portfolio/2020/12/ShapeFighters/
 excerpt: "Really simple mobile game where the user plays a matching game in order to defend or attack against enemy shapes.<br/><img src='/images/shapefighter3.png'><img src='/images/shapefighter1.png'>"
 collection: portfolio
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Dashing Rogue"
+permalink: /portfolio/2022/05/DashingRogue/
 excerpt: "Dashing Rogue is a hardcore platformer where the player dashes their way through levels, trying to impress a love interest.<br/><img src='/images/dashingrogue1.jpg'>"
 collection: portfolio
 ---

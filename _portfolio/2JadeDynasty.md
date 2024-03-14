@@ -1,5 +1,6 @@
 ---
 title: "Jade Dynasty"
+permalink: /portfolio/2023/05/JadeDynasty/
 excerpt: "An expansion on Gunventure, Jade Dynasty is a top down shooter where you fight your way through procedural levels with unique, randomized guns.<br/><img src='/images/jadedynasty1.gif'>"
 collection: portfolio
 ---

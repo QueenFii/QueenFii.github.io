@@ -1,5 +1,6 @@
 ---
 title: "Icy Hot Socks"
+permalink: /portfolio/2021/12/IcyHotSocks/
 excerpt: "Icy Hot Socks is a platformer where you manage your tempature as you navigate your way to the attic.<br/><img src='/images/IcyHotSocks1.png'>"
 collection: portfolio
 ---

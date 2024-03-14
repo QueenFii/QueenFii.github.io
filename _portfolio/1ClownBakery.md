@@ -1,5 +1,6 @@
 ---
 title: "Clown Bakery"
+permalink: /portfolio/2024/01/ClownBakery/
 excerpt: "Global Game Jam game with the theme of make me laugh.<br/><img src='/images/clownbake1.png'>"
 collection: portfolio
 ---
