@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-{% for post in site.portfolio %}
+{% for (int i = site.portfolio.length; i >= 0; i--) %}
   {% include archive-single.html %}
 {% endfor %}
 
