@@ -1,5 +1,6 @@
 ---
 title: "Blaze Man's Dimensional Adventure"
+date: 2012-08-14
 excerpt: "Global Game Jam Project with the theme of duality. The duality between a top down shooter and an fps.<br/><img src='/images/blazeman1.png'>"
 collection: portfolio
 ---

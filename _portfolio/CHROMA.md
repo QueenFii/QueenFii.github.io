@@ -1,5 +1,6 @@
 ---
 title: "CHROMA"
+date: 2012-08-14
 excerpt: "CHROMA is a top down puzzle game where players combine unique key combinations into differently colored powers.<img src='/images/chroma1.png'>"
 collection: portfolio
 ---

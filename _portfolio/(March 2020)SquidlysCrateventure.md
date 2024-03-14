@@ -1,5 +1,6 @@
 ---
 title: "Squidly's Crateventure"
+date: 2012-08-14
 excerpt: "Squidly’s Crateventure was the first “full” game I made in unity. A Super Crate Box clone. <br/><img src='/images/SquidlyCrateventure.png'>"
 collection: portfolio
 ---
