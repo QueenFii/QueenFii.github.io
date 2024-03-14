@@ -1,7 +1,7 @@
 ---
 title: "Blaze Man's Dimensional Adventure"
 permalink: /portfolio/2022/01/Blazeman/
-excerpt: "Global Game Jam Project with the theme of duality. The duality between a top down shooter and an fps.<br/><img src='/images/blazeman1.png'>"
+excerpt: "Global Game Jam Project with the theme of duality. The duality between a top down shooter and an first person shooter.<br/><img src='/images/blazeman1.png'>"
 collection: portfolio
 ---
 
